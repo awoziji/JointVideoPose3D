@@ -13,9 +13,10 @@ Generalizable state of the art results on [Human3.6M](http://vision.imar.ro/huma
 | [Pavvllo '19](https://arxiv.org/abs/1811.11742) (CVPR) | 46.8          | 36.5          | 44.9         |
 | [Chen'19](https://arxiv.org/abs/1904.05547) (CVPR)    | 46.8          | 41.6          | 50.3         |
 | **Ours**              | **45.9**          | **35.9**      | **44.2**     |
+-----------------
 
 
-
+------------------
 |                   | Velocity      | Acceleration   |
 | ------------------| ----------- --|----------------|
 | [Pavvllo '19](https://arxiv.org/abs/1811.11742) (CVPR) | 2.83          | 2.44           |
@@ -37,3 +38,18 @@ python run.py -e 80 -ch 2048 -k cpn_ft_h36m_dbb -arc 3,3,3,3,3 -bm #run with -ch
 
 **Model**
 1.1 GB - please contact to download. 
+
+**Citation**
+
+If you find this work useful, please cite it as:
+
+```
+@article{gupta2019jointaware,
+  title   = "Back to the Future: Joint Aware Temporal Deep Learning 3D Human Pose Estimation",
+  author  = "Gupta, Vikas",
+  journal = "https://github.com/vnmr/",
+  year    = "2019",
+  url     = "https://github.com/vnmr/JointVideoPose3D"
+}
+```
+
