@@ -23,7 +23,7 @@ Generalizable state of the art results on [Human3.6M](http://vision.imar.ro/huma
 
 
 
-This work extends Pavllo '19 FAIR [VideoPose3D](https://github.com/facebookresearch/VideoPose3D)
+This work extends [Pavvllo '19](https://arxiv.org/abs/1811.11742) FAIR [VideoPose3D](https://github.com/facebookresearch/VideoPose3D)
 
 **Requirements**
 CUDA + 
