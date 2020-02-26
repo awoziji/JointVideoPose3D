@@ -8,18 +8,16 @@ Generalizable state of the art results on [Human3.6M](http://vision.imar.ro/huma
 
 **Paper** First Author, CVPR 2020 *Submitted* - arxiv TBD
 
-**Position**
 |                   | Protocol #1   | Protocol #2   | Protocol #3  |
 | ------------------| ------------- |---------------|--------------|
 | [Pavvllo '19](https://arxiv.org/abs/1811.11742) (CVPR) | 46.8          | 36.5          | 44.9         |
 | [Chen'19](https://arxiv.org/abs/1904.05547) (CVPR)    | 46.8          | 41.6          | 50.3         |
 | **Ours**              | **45.9**          | **35.9**      | **44.2**     |
 
-**Motion**
-|                   | Velocity      | Acceleration   |
-| ------------------| ----------- --|----------------|
+|            | Velocity   |  Acceleration  |
+| -----------| -----------|----------------|
 | [Pavvllo '19](https://arxiv.org/abs/1811.11742) (CVPR) | 2.83          | 2.44           |
-| **Ours**              | **2.63**      | **2.12**       | 
+| **Ours**       | **2.63**      | **2.12**       | 
 
 
 
