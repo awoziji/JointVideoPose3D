@@ -8,7 +8,7 @@ Generalizable state of the art results on [Human3.6M](http://vision.imar.ro/huma
 
 **Paper** First Author, CVPR 2020 *Submitted* 
 
-**arXiv** [arxiv][https://arxiv.org/abs/2002.11251]
+**arXiv** [arXiv][https://arxiv.org/abs/2002.11251]
 
 |                   | Protocol #1   | Protocol #2   | Protocol #3  |
 | ------------------| ------------- |---------------|--------------|
