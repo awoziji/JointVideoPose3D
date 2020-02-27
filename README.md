@@ -36,7 +36,7 @@ python run.py -e 80 -ch 2048 -k cpn_ft_h36m_dbb -arc 3,3,3,3,3 -bm #run with -ch
 ```
 
 **Model**
-1.1 GB - please contact to download. 
+1.1 GB - please contact
 
 **Citation**
 
