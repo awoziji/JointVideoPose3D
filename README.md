@@ -6,7 +6,9 @@ We propose a new deep learning network that introduces a deeper CNN channel filt
 **Contribution** Joint constraints as losses with an updated temporal CNN architecture.
 Generalizable state of the art results on [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
 
-**Paper** First Author, CVPR 2020 *Submitted* - arxiv TBD
+**Paper** First Author, CVPR 2020 *Submitted* 
+
+**arXiv** [arxiv][https://arxiv.org/abs/2002.11251]
 
 |                   | Protocol #1   | Protocol #2   | Protocol #3  |
 | ------------------| ------------- |---------------|--------------|
@@ -41,12 +43,12 @@ python run.py -e 80 -ch 2048 -k cpn_ft_h36m_dbb -arc 3,3,3,3,3 -bm #run with -ch
 If you find this work useful, please cite it as:
 
 ```
-@article{gupta2019jointaware,
-  title   = "Back to the Future: Joint Aware Temporal Deep Learning 3D Human Pose Estimation",
-  author  = "Gupta, Vikas",
-  journal = "https://github.com/vnmr/",
-  year    = "2019",
-  url     = "https://github.com/vnmr/JointVideoPose3D"
+@misc{gupta2020future,
+    title={Back to the Future: Joint Aware Temporal Deep Learning 3D Human Pose Estimation},
+    author={Vikas Gupta},
+    year={2020},
+    eprint={2002.11251},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
 }
 ```
-
